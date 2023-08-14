@@ -1,0 +1,170 @@
+texto,emocao
+Saber encontrar a alegria na alegria dos outros é o segredo da felicidade,positivo
+A amizade desenvolve a felicidade e reduz o sofrimento duplicando a nossa alegria e dividindo a nossa dor,positivo
+A alegria de fazer o bem é a única felicidade verdadeira,positivo
+Felicidade é a certeza de que a nossa vida não está se passando inutilmente,positivo
+Estou muito feliz hoje,positivo
+Ganhei um gato de presente de aniversário,positivo
+Me diverti demais hoje,positivo
+Como o céu esta lindo,positivo
+O dia promete muita diversão,positivo
+Eu e meus amigos rimos muito hoje,positivo
+Recebi uma noticia maravilhosa hoje,positivo
+Sou muito grato por tudo que a vida me proporcionou,positivo
+Hoje recebi muitos presentes,positivo
+Finalmente consegui ganhar este campeonato,positivo
+Hoje é o meu dia! Viva a vida,positivo
+Seja feliz,positivo
+Espero que seu dia seja lindo,positivo
+Voltei para a escola hoje e ganhei um pirulito e uma caneta,positivo
+O presente que eu tanto esperava finalmente chegou,positivo
+Hoje tem festa,positivo
+Feliz aniversário,positivo
+Estou muito bem,positivo
+Eu te amo infinitamente,positivo
+Nada melhor que um dia de churrasco em familia,positivo
+Tenho eterna gratidão à minha familia,positivo
+Não vejo a hora de começar a festa,positivo
+É garantido que o Brasil vai ganhar a Copa este ano,positivo
+O Brasil ganhou o jogo de hoje,positivo
+Hoje houveram muitas brincadeiras na escola,positivo
+Amanha teremos um almoço muito gostoso,positivo
+Minha brincadeira favorita é pega-pega,positivo
+Esta bebida está muito gostosa,positivo
+Fiz muitos amigos na escola,positivo
+Eu te amo,positivo
+Eu gosto muito de você,positivo
+Sua familia é muito divertida,positivo
+Seus amigos são engraçados,positivo
+Você é muito legal,positivo
+Recebi nota máxima na prova de ontem e estou muito feliz,positivo
+Consegui me formar e dar orgulho à minha familia,positivo
+Ousadia e alegria sempre,positivo
+Com muito esforço e trabalho duro se conquista o mundo,positivo
+Não há felicidade mais verdadeira do que aquela que experimentamos ao alcançar um sonho,positivo
+O segredo da felicidade é não dar importância ao que não tem importância,positivo
+A gratidão é uma das maiores virtudes da vida,positivo
+Tenha um bom dia,positivo
+Bom trabalho,positivo
+Como eu amo a minha vida,positivo
+Eu amo me divertir,positivo
+Estou tão feliz com meu casamento,positivo
+Perdi um ente muito querido ontem,negativo
+Hoje o dia está amedrontador,negativo
+Cai e me machuquei hoje,negativo
+Esta doendo muito,negativo
+Eu te odeio,negativo
+Odeio este lugar,negativo
+Que ódio,negativo
+Ele disse que me odeia,negativo
+Estou muito triste com o que aconteceu hoje,negativo
+A dor esta me consumindo,negativo
+Vou reprovar na faculdade,negativo
+Você é muito preguiçoso,negativo
+Tu não tem capacidade de trabalhar aqui,negativo
+É inutil tentar melhorar o que não se pode melhorar,negativo
+Mataram um amigo meu,negativo
+Estou me sentindo triste,negativo
+É triste ver pessoas passando fome,negativo
+Estou enjoado destas atitudes idiotas,negativo
+Você me desagrada de muitas formas,negativo
+Não gosto de pessoas babacas,negativo
+Ocorreu uma tragédia na minha vida,negativo
+Me da uma tristeza saber que minha rede social preferida é um manicômio virtual,negativo
+Quebrei meu braço esses dias,negativo
+Todo meu trabalho foi jogado fora,negativo
+Demorei horas estudando para no final tirar nota baixa,negativo
+Estou com muito medo de não conseguir entregar meus trabalhos da faculdade,negativo
+Não sei dançar acabei caindo no meio da festa,negativo
+Estou morrendo de dor de cabeça,negativo
+Sua amiga esta sumida,negativo
+A morte é uma passagem em que todos irão passar,negativo
+A chuva acabou com a minha festa,negativo
+Estou me sentindo muito sozinho,negativo
+O bolo de chocolate esta horrivel,negativo
+Você não presta para nada,negativo
+Todo mundo encontrando alguem e eu só estresse e tristeza,negativo
+Meu time perdeu o jogo hoje,negativo
+É triste saber que isso dura tão pouco,negativo
+Você não tem noção da trizteza que eu me encontro,negativo
+É uma fatalidade a morte de Erasmo Carlos,negativo
+Hoje deu tudo errado,negativo
+Comi um sanduiche ontem que estava com gosto muito ruim,negativo
+É triste ver como a humanidade é ignorante,negativo
+Estou me sentindo muito mal,negativo
+A dor e a tristeza são sentimentos muito ruins,negativo
+Me da angustia de ver essas pessoas,negativo
+Meu computador estragou e perdi todo meu trabalho feito,negativo
+Hoje fui demitido,negativo
+Infelizmente perdi uma oportunidade maravilhosa,negativo
+Sua amiga esta muito doente,negativo
+Como você esta fedendo,negativo
+joao bateu o joelho,negativo
+ganhei um premio,positivo
+Mario esta triste,negativo
+Pedro passou na prova,positivo
+Carla cuspiu em mim,negativo
+Jogamos futebol e ganhamos a partdia,positivo
+Julio quebrou a janela e assustou Joana,negativo
+Paulo encountrou dinheiro na rua,positivo
+Fui demitido por assistir o jogo da copa,negativo
+Conseguiram terminar o trabalho,positivo
+Fernanda vomitou no Pedro depois da festa,negativo
+estou feliz,positivo
+estou triste,negativo
+que alegria,positivo
+que odio, negativa
+que nojo,positivo
+me assustei,negativo
+sou alegre,positivo
+Mario passou vergonha na frente de todo mundo,negativo
+Assistimos Manoel ganhar o festival,positivo
+Pedro esta triste por nao ser escalado para o time,negativo
+Estou livre de dividas,positivo
+Gabriel esta furioso com Jorge,negativo
+Eu amo comer pastel,positivo
+Caio odeia falar em publico,negativo
+Joana adora estudar para fisica,positivo
+Marcos chorou por tirar zero na prova,negativo
+Finalmene sou maior de idade,positivo
+Infelizmente joguei as roupas fora,negativo
+Me sinto completamente radiante hoje,positivo
+A autoestima de miguel esta la em baixo,negativo
+Hoje vou para a academia feliz,positivo
+Dudu quase se matou dirigindo,negativo
+Sou um bom motorista,positivo
+Odeio ficar acordado ate tarde,negativo
+Festejamos hoje com o pessoal,positivo
+Os pais de Cleiton estao decepcionados com ele,negativo
+Os estudantes estao euforicos com as ferias,positivo
+Saulo esta desesperado com o projeto,negativo
+O tempo esta favoravel para um churrasco,positivo
+Que dor no dedinho do pe,negativo
+Estou muito feliz com a sua visita,positivo
+Me sinto mal por ele,negativo
+As redes sociais entregam muito entreterimento,positivo
+Nao vou sentir um pingo de dó do seu coracao,negativo
+Estamos todos de bom humor,positivo
+A viagem me deu enjoo,negativo
+A felicidade esta nos olhos de quem ve,positivo
+Claudia aborrece qualquer pessoa,negativo
+Bruno morreu ontem,negativo
+Acordei com um sorriso no rosto,positivo
+A pizza de ontem me deu enjoo,negativo
+Pedro ganhou um carro de presente,positivo
+que tristeza,negativo
+que felicidade,positivo
+Essa situação gerou muito sofrimento pra todo mundo,negativo
+O sol esta radiante hoje,positivo
+O ceu esta triste,negativo
+As pessoas estao apoiando este candidato,positivo
+Deus tenha piedade de nos,negativo
+Os professores estao estimulando os alunos a passarem de ano,positivo
+Ana faz comentarios maldosos sobre Carla,negativo
+Breno sempre agrada a todos do grupo,positivo
+Eu estou aflito com tudo que esta acontecendo,negativo
+O amor e a felicidade sempre estarao juntos,positivo
+Eu magoei voce,negativo
+Que voce tenha sucesso na sua vida,positivo
+Todos estamos de luto pelo ocorrido,negativo
+Paulo e Julio estao felizes por voce,positivo
