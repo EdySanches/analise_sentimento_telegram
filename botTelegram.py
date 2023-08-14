@@ -1,14 +1,4 @@
-"""
-Exemplo de um chatbot para Telegram
 
-Código disponibilizado por Karan Batra
-Alterações feitas por Hemerson Pistori (pistori@ucdb.br), principalmente a parte que trata de imagens.
-
-Como executar:
-python botTelegram.py COPIE_AQUI_SEU_TOKEN
-
-Funcionalidade: repete as mensagens de texto que alguém envia para o seu chatbot e devolve duas estatísticas das imagens quando o usuário manda uma imagem.
-"""
 import pip
 
 def install(package):
@@ -41,7 +31,7 @@ from spacy.lang.pt.stop_words import STOP_WORDS
 # Você pode também trocar diretamente aqui sys.argv[1] pelo
 # seu token no telegram (ver README.md para saber como
 # criar seu bot no telegram)
-MEU_TOKEN = "5929662835:AAFOYgvqmVJvbC4JGli9myAtpfcCTHCA8qs"
+MEU_TOKEN = "XXXXXXXXXXXXXX"
 
 # Pasta para imagens enviadas pelo usuário
 pasta_imgs = './Telegram_Imagens_Recebidas/'
